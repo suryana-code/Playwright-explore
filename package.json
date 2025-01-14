@@ -1,0 +1,17 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "Muhamad Suryana",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.6",
+    "prettier": "^3.4.2"
+  }
+}
